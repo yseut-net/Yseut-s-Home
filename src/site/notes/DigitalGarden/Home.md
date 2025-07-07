@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/home/"}
+{"dg-publish":true,"permalink":"/DigitalGarden/Home/"}
 ---
 
+---
+dg-publish: true
+dg-home: true
+
+---
 笔记分享
 
 
