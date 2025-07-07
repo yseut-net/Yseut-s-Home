@@ -1,14 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/DigitalGarden/Home/"}
+{"dg-publish":true,"permalink":"/DigitalGarden/Home/","tags":["gardenEntry"]}
 ---
 
----
-dg-publish: true
-dg-home: true
-
----
-笔记分享
+这是 Yseut 的数字花园，欢迎您的到来！
 
 
-##book
+
 
